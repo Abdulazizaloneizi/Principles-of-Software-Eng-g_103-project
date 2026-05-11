@@ -1,4 +1,4 @@
-lothes Donation System
+Clothes Donation System
 
 This project is a simple system that allows users to donate and request clothes.
 
